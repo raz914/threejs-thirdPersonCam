@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "site":"third-person-shooter-3js",
+    "public": "public"
+  }
+}
